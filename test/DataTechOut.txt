@@ -1,0 +1,65 @@
+algorithm
+analytics
+bi
+business intelligence
+cassandra
+chef
+cloudera
+cloudwatch
+cognos
+crowbar
+data analytics
+data mining
+data modeling
+data warehousing
+dempsy
+docker
+ec2
+elasticsearch
+etl tools
+finagle
+flume
+foreman
+fraud detection
+hadoop
+hadoop 2.0
+hbase
+hdfs
+hdfs hortonworks map-reduce
+hive
+hunk
+ibm netezza
+impala
+informatica
+kafka
+kettle
+machine learning
+mahout
+mapr
+mongodb
+oozie
+opentsdb
+pentaho
+pig
+predictive models
+puppet
+r
+recommender systems
+redis
+riak
+s3
+sas
+scribe
+snowflake schema
+solr
+splunk
+sqoop
+sqs
+ssis
+star schema
+storm
+tableau
+talend
+trend analysis
+yarn
+zookeeper

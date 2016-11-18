@@ -1,0 +1,9 @@
+Hadoop, MapR, HDFS Hortonworks Map-Reduce, Pig, Sqoop, Hive, HBase, Hive, Pig, HBase, Oozie, Sqoop, Flume, Zookeeper, 
+Cassandra, Solr, Impala, R, Analytics, Tableau, Oozie, Mahout, algorithm, machine learning, ETL Tools, Informatica, 
+Talend, Pentaho, Hadoop, HBase, HDFS, Cassandra, MongoDB, Riak, Splunk, BI, Data Warehousing, Elasticsearch, YARN, Hadoop 2.0, 
+Cloudera, Puppet, Chef, Crowbar, Docker, Data Analytics, SAS, R, storm, kafka, EC2, S3, SQS, Cloudwatch, foreman, OpenTSDB, IBM Netezza, 
+Hunk, Dempsy, Data Mining, Machine Learning, Predictive Models, Trend Analysis, Recommender Systems, Fraud Detection, Star Schema, 
+Snowflake Schema, Data Modeling, Business Intelligence, SSIS, SAS, Cognos, Kettle, Informatica, Scribe, Redis, Finagle
+
+
+
